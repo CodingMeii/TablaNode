@@ -1,0 +1,3 @@
+#Ignorar archivos
+salida/*.txt
+node_modules
